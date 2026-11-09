@@ -1,6 +1,6 @@
-# Nihal portfolio — reference replica
+# Nihal portfolio
 
-A static recreation of [ingrassiadaniel.it](https://ingrassiadaniel.it/), prepared on November 8, 2026. The opening particle portrait now uses Nihal's supplied photos, and the location chapter shows India. The content, nine project case studies, education, certificates and contact links are personalized for Nihal Shaikh.
+The opening particle portrait now uses Nihal's supplied photos, and the location chapter shows India. The content, nine project case studies, education, certificates and contact links are personalized for Nihal Shaikh.
 
 ## Preview
 
