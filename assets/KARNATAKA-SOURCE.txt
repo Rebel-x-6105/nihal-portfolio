@@ -1,0 +1,3 @@
+Karnataka outline
+https://livingatlas.esri.in/server/rest/services/IAB2024/India_Administrative_Boundaries_2024/MapServer/1/query?where=name+%3D+%27Karnataka%27&outFields=name&outSR=4326&geometryPrecision=5&f=geojson
+Simplified at 0.012 degrees and projected with the same cos(22 degrees) and native bounds as india.bin.

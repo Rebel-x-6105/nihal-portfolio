@@ -1,0 +1,7 @@
+India particle silhouette
+Boundary source: Esri India, India Administrative Boundaries 2024 / Country Boundary
+https://livingatlas.esri.in/server/rest/services/IAB2024/India_Administrative_Boundaries_2024/MapServer/0
+Retrieved November 8, 2026.
+44,000 deterministically sampled points, including northeast India and island polygons.
+Longitude scaled by cos(22 degrees) for a simple local equal-aspect display.
+Binary format: PPT1, point count, quantization scale, then int16 x/y/z and byte luminance/padding.

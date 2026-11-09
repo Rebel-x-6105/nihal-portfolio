@@ -1,0 +1,4 @@
+FinSight AI
+Repository: https://github.com/Rebel-x-6105/FinSight-AI
+Reviewed 2026-11-09 through the in-app browser only.
+Screenshots rendered from the public base.html, home.html, dashboard.html and static/css/style.css at main, with the repository app.py dashboard placeholder values (all zero). These are interface snapshots, not evidence of a working analytics or ML backend.

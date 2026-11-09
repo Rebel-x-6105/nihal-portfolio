@@ -1,0 +1,9 @@
+Nihal particle portrait, generated November 8, 2026.
+Source: the four portrait photographs supplied by the user in this chat.
+Second, more centered photo supplies the broad features and hair silhouette. All four
+photos contribute aligned face-landmark depth estimates.
+44,000 morph particles; approximately 28,000 visible in the portrait.
+Soft photographic cues and a continuous shallow head/scalp surface.
+This is a photo-derived relief, not a full 360-degree scan.
+Raw photos, inference models and Python tools are excluded from the website ZIP.
+PPT1 point record: int16 x/y/z, byte portrait luminance, byte morph luminance.
