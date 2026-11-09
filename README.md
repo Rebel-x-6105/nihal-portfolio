@@ -22,7 +22,7 @@ Use an HTTP server; opening `index.html` directly as a `file://` URL blocks Java
 
 These settings follow [GitHub's publishing-source documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
-No Node.js installation, npm build, PHP, database, framework server, or API key is needed. The downloadable archive excludes research and QA files. This project has not been pushed or published to GitHub.
+No Node.js installation, npm build, PHP, database, framework server, or API key is needed. The downloadable archive excludes research and QA files. Published source: [Rebel-x-6105/nihal-portfolio](https://github.com/Rebel-x-6105/nihal-portfolio). Live site: [Nihal Shaikh portfolio](https://rebel-x-6105.github.io/nihal-portfolio/). GitHub Pages deploys the `main` branch from the repository root.
 
 ## Files to edit
 
